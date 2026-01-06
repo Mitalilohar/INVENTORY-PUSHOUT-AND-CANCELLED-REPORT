@@ -61,24 +61,6 @@ Derive inventory value using standard costing rules.
 
 Present results in the defined reporting format.
 
-🧾 Report Output
-
-The final report provides:
-
-Raw Material Item Number
-
-Item Description
-
-Organization
-
-Affected Quantity
-
-Inventory Value
-
-Demand Status (Pushout >8 Weeks / Cancelled)
-
-Demand Reference Details
-
 🛠️ Technologies Used
 
 Oracle ERP / Oracle EBS
@@ -88,3 +70,30 @@ SQL
 PL/SQL
 
 Inventory & Supply Chain data models
+
+🚀 Key Benefits
+
+Improves visibility of inventory risks caused by demand volatility
+
+Helps reduce excess and obsolete inventory
+
+Supports proactive supply chain planning
+
+Saves manual analysis time through automated reporting
+
+📈 Business Impact
+
+Enabled early identification of high-risk RM inventory
+
+Supported cost control initiatives
+
+Improved coordination between planning and inventory teams
+
+Reduced dependency on manual data analysis
+
+
+👩‍💻 Author
+
+Mitali Lohar
+PL/SQL & Oracle ERP Developer
+Experience in Oracle EBS, SCM, and backend development
